@@ -1,0 +1,59 @@
+
+.container{
+   
+    height: auto;
+    margin-top: 3%;
+    /* border:5px red solid; */
+   
+  
+}
+#kkk{
+   
+    float: left;
+    height:35px;
+    width: 30%;
+    background-color: darkcyan;
+    text-align: left;
+    color: white;
+    padding-top: 5px;
+    /* font-family: 'BhuTuka Expanded One', cursive; */
+    font-family: 'Syne Mono', monospace;
+   
+   
+   
+   
+    
+    
+}
+#kkk1{
+  
+    float: left;
+    height:35px;
+    width: 10%;
+    background-color: darkcyan;
+    text-align: left;
+    color: white;
+    padding-top: 5px;
+    font-family: 'Syne Mono', monospace;
+
+    
+
+}
+#kkk2{
+    
+    float: left;
+    height:35px;
+    width: 40%;
+    background-color: darkcyan;
+    text-align: left;
+    color: white;
+    padding-top: 5px;
+    /* font-family: 'BhuTuka Expanded One', cursive; */
+    font-family: 'Syne Mono', monospace;
+}
+#w{
+    margin-left: 3%;
+}
+
+
+
